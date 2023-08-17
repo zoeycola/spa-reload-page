@@ -1,0 +1,21 @@
+{
+  "name": "spa-reload-page",
+  "private": false,
+  "version": "0.1.2",
+  "author": "weekend.zhou", 
+  "description": "common toolkit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoeycola/spa-reload-page"
+  },
+  "license": "ISC",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
